@@ -1,0 +1,16 @@
+@CosmosPostgresAPI_HostAddress = http://localhost:5002
+
+GET {{CosmosPostgresAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+https://localhost:7180/api/Pharmacy/load-data
+Content-Type: application/json
+
+{
+    "filePath": "C:\\Users\\KEMBOI\\Documents\\pharmacies.csv"
+}
+
+
+###
+https://localhost:7180/api/Pharmacy
