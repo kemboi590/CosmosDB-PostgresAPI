@@ -1,1 +1,1 @@
-# Connect Azure Cosmos DB for PostgresSQL with C# .NET CRUD API
+# Connect Azure Cosmos DB for PostgreSQL with C# .NET CRUD API
